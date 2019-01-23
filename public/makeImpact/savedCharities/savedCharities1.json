@@ -1,0 +1,37 @@
+{
+    "savedGrants": [
+      {
+        "charityName": "100 Black Men Of America Inc",
+        "EIN": "12334",
+        "interestArea": "Human Services",
+        "purpose": "Area of most need",
+        "isPending": false,
+        "address": "New York, NY",
+       "location": "322 8th sasas",
+        "charityId": 232325
+      },
+      {
+        "charityName": "100 Black Men Of America Inc",
+        "EIN": "12334",
+        "interestArea": "Human Services",
+        "amount": 20000,
+        "purpose": "Area of most need",
+        "isPending": true,
+        "address": "New York, NY",
+       "location": "322 8th sasas",
+        "charityId": 232327
+      },
+      {
+        "charityName": "100 Black Men Of America Inc",
+        "EIN": "12334",
+        "interestArea": "Human Services",
+        "amount": 20000,
+        "purpose": "Area of most need",
+        "address": "New York, NY",
+       "location": "322 8th sasas",
+        "charityId": 232323,
+        "isPending": false
+  
+      }
+    ]
+  }
