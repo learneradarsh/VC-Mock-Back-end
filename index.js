@@ -5,7 +5,9 @@ const bodyParser = require('body-parser');
 
 const app = express();
 
-const makeAnImpact = require('./router/makeImpact/makeImpact')
+const makeAnImpact = require('./router/makeImpact/makeImpact');
+const accountSummary = require('./router/accountSummary/accountSummary')
+
 
 app.use(morgan('combined'))
 app.use(cors());
@@ -13,6 +15,7 @@ app.use(express.json());
 
 
 app.use('/grant', makeAnImpact)
+app.use('/', accountSummary)
 
  
 

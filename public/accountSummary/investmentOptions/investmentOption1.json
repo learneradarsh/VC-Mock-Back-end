@@ -1,0 +1,273 @@
+{
+	"currentBalance": 1757706476.2,
+	"availableBalance": 3355122.91,
+	"accountName": "The tommy Fund",
+	"investmentPools": [
+		{
+			"name": "Gift Preservation",
+			"type": "PORTFOLIO SOLUTIONS",
+			"pricePerUnit": 16.35,
+			"availableBalance": 3912887.12,
+			"availableUnits": 239320.3129,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Moderate Growth",
+			"type": "PORTFOLIO SOLUTIONS",
+			"pricePerUnit": 38.48,
+			"availableBalance": 38375.8,
+			"availableUnits": 997.292,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Growth",
+			"type": "PORTFOLIO SOLUTIONS",
+			"pricePerUnit": 34.86,
+			"availableBalance": 7248.77,
+			"availableUnits": 207.9394,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Total Equity",
+			"type": "BUILDING BLOCKS",
+			"pricePerUnit": 24.06,
+			"availableBalance": 288058.9,
+			"availableUnits": 11972.5228,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Federal Money Market",
+			"type": "BUILDING BLOCKS",
+			"pricePerUnit": 10.19,
+			"availableBalance": 350180.4,
+			"availableUnits": 34365.1035,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Total Bond",
+			"type": "BUILDING BLOCKS",
+			"pricePerUnit": 15.28,
+			"availableBalance": 76160.12,
+			"availableUnits": 4984.3011,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Total U.S. Stock",
+			"type": "BUILDING BLOCKS",
+			"pricePerUnit": 23.03,
+			"availableBalance": 197097.58,
+			"availableUnits": 8558.297,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Total International Stock",
+			"type": "BUILDING BLOCKS",
+			"pricePerUnit": 11.25,
+			"availableBalance": 1960.84,
+			"availableUnits": 174.2967,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Gift Preservation Select",
+			"type": "PORTFOLIO SOLUTIONS",
+			"pricePerUnit": 17.22,
+			"availableBalance": 221731.38,
+			"availableUnits": 12876.3867,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Moderate Growth Select",
+			"type": "PORTFOLIO SOLUTIONS",
+			"pricePerUnit": 40.45,
+			"availableBalance": 7599849.19,
+			"availableUnits": 187882.551,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Growth Select",
+			"type": "PORTFOLIO SOLUTIONS",
+			"pricePerUnit": 36.38,
+			"availableBalance": 1885399.77,
+			"availableUnits": 51825.1724,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Total Equity Select",
+			"type": "BUILDING BLOCKS",
+			"pricePerUnit": 25.38,
+			"availableBalance": 646440.76,
+			"availableUnits": 25470.4791,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Federal Money Market Select",
+			"type": "BUILDING BLOCKS",
+			"pricePerUnit": 10.44,
+			"availableBalance": 54002.41,
+			"availableUnits": 5172.645,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Total Bond Select",
+			"type": "BUILDING BLOCKS",
+			"pricePerUnit": 15.87,
+			"availableBalance": 1716605461.04,
+			"availableUnits": 108166695.7176,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Total U.S. Stock Select",
+			"type": "BUILDING BLOCKS",
+			"pricePerUnit": 23.15,
+			"availableBalance": 32243.07,
+			"availableUnits": 1392.789,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Total International Stock Select",
+			"type": "BUILDING BLOCKS",
+			"pricePerUnit": 11.49,
+			"availableBalance": 10370.83,
+			"availableUnits": 902.5962,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Short-Term Bond",
+			"type": "BUILDING BLOCKS",
+			"pricePerUnit": 12.23,
+			"availableBalance": 6575.39,
+			"availableUnits": 537.6445,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Short-Term Bond Select",
+			"type": "BUILDING BLOCKS",
+			"pricePerUnit": 12.38,
+			"availableBalance": 14650939.62,
+			"availableUnits": 1183436.157,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Conservative Growth",
+			"type": "PORTFOLIO SOLUTIONS",
+			"pricePerUnit": 14.85,
+			"availableBalance": 165908,
+			"availableUnits": 11172.2558,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Conservative Growth Select",
+			"type": "PORTFOLIO SOLUTIONS",
+			"pricePerUnit": 15.11,
+			"availableBalance": 525750.41,
+			"availableUnits": 34794.8652,
+			"unitsHeld": 0
+		},
+		{
+			"name": "European Stock",
+			"type": "SPECIFIC REGIONS",
+			"pricePerUnit": 16.45,
+			"availableBalance": 9785.29,
+			"availableUnits": 594.8507,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Pacific Stock",
+			"type": "SPECIFIC REGIONS",
+			"pricePerUnit": 16.61,
+			"availableBalance": 2874.64,
+			"availableUnits": 173.0669,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Emerging Markets",
+			"type": "SPECIFIC REGIONS",
+			"pricePerUnit": 11.86,
+			"availableBalance": 2317.78,
+			"availableUnits": 195.4285,
+			"unitsHeld": 0
+		},
+		{
+			"name": "European Stock Select",
+			"type": "SPECIFIC REGIONS",
+			"pricePerUnit": 15.4,
+			"availableBalance": 2148800.82,
+			"availableUnits": 139532.5205,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Pacific Stock Select",
+			"type": "SPECIFIC REGIONS",
+			"pricePerUnit": 16.28,
+			"availableBalance": 628683.07,
+			"availableUnits": 38616.896,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Emerging Markets Select",
+			"type": "SPECIFIC REGIONS",
+			"pricePerUnit": 11.91,
+			"availableBalance": 7577837.68,
+			"availableUnits": 636258.4116,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Total International Bond Select",
+			"type": "BUILDING BLOCKS",
+			"pricePerUnit": 10,
+			"availableBalance": 3732.92,
+			"availableUnits": 373.292,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Wellington Select",
+			"type": "BALANCED FUNDS",
+			"pricePerUnit": 10,
+			"availableBalance": 14515.9,
+			"availableUnits": 1451.59,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Income Select",
+			"type": "PORTFOLIO SOLUTIONS",
+			"pricePerUnit": 10,
+			"availableBalance": 40011.75,
+			"availableUnits": 4001.175,
+			"unitsHeld": 0
+		},
+		{
+			"name": "Balanced Index Select",
+			"type": "BALANCED FUNDS",
+			"pricePerUnit": 10,
+			"availableBalance": 74.99,
+			"availableUnits": 7.499,
+			"unitsHeld": 0
+		},
+		{
+			"name": "ESG Global Stock Select",
+			"type": "VALUES DRIVEN INVESTMENTS",
+			"pricePerUnit": 10,
+			"availableBalance": 99.98,
+			"availableUnits": 9.998,
+			"unitsHeld": 0
+		},
+		{
+			"name": "ESG International Stock Select",
+			"type": "VALUES DRIVEN INVESTMENTS",
+			"pricePerUnit": 10,
+			"availableBalance": 49.99,
+			"availableUnits": 4.999,
+			"unitsHeld": 0
+		},
+		{
+			"name": "ESG U.S. Stock Select",
+			"type": "VALUES DRIVEN INVESTMENTS",
+			"pricePerUnit": 10,
+			"availableBalance": 1049.99,
+			"availableUnits": 104.999,
+			"unitsHeld": 0
+		}
+	],
+	"lowBalanceIndicator": "N",
+	"pendingContribSize": "10"
+}
