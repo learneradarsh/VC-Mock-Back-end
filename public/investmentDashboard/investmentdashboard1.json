@@ -1,0 +1,165 @@
+{
+  "investmentData": {
+    "currentBalance": "$100000",
+    "availableBalance": "$70000",
+    "investmentsYTD": "$30000",
+    "fundName": "The Carson Eco Fund",
+    "recentInvestments": [
+      {
+        "TransactionId": "abcdgee123",
+        "dpUserName": "vabc123",
+        "enteredDate": "2018/09/10",
+        "tradeDate": "2018/09/11",
+        "exchangetype": "Custom",
+        "amount": "100",
+        "status": "pending",
+        "recurring": true
+      },
+      {
+        "TransactionId": "3e23e2dq",
+        "dpUserName": "vabc123",
+        "enteredDate": "2018/09/22",
+        "tradeDate": "2018/09/11",
+        "exchangetype": "Custom",
+        "amount": "100",
+        "status": "pending",
+        "recurring": true
+      },
+      {
+        "TransactionId": "qds3qdxa",
+        "dpUserName": "vabc123",
+        "enteredDate": "2018/08/09",
+        "tradeDate": "2018/09/11",
+        "exchangetype": "Single",
+        "amount": "100",
+        "status": "pending",
+        "recurring": true
+      },
+      {
+        "TransactionId": "3qwd311",
+        "dpUserName": "vabc123",
+        "enteredDate": "2018/09/22",
+        "tradeDate": "2018/09/11",
+        "exchangetype": "Custom",
+        "amount": "100",
+        "status": "pending",
+        "recurring": true
+      },
+      {
+        "TransactionId": "1233405",
+        "dpUserName": "vabc123",
+        "enteredDate": "2018/08/09",
+        "tradeDate": "2018/09/11",
+        "exchangetype": "Single",
+        "amount": "100",
+        "status": "pending",
+        "recurring": true
+      },
+      {
+        "TransactionId": "1233405",
+        "dpUserName": "vabc123",
+        "enteredDate": "2018/09/22",
+        "tradeDate": "2018/09/11",
+        "exchangetype": "Custom",
+        "amount": "100",
+        "status": "pending",
+        "recurring": true
+      },
+      {
+        "TransactionId": "1233405",
+        "dpUserName": "vabc123",
+        "enteredDate": "2018/08/09",
+        "tradeDate": "2018/09/11",
+        "exchangetype": "Single",
+        "amount": "100",
+        "status": "pending",
+        "recurring": true
+      }
+    ],
+    "investmentallocations": [
+      {
+        "name": "Money Market",
+        "percentshare": "30",
+        "currentNAV": "2.5",
+        "Units": "2334",
+        "Profit": "2500",
+        "variation": "rise/decline",
+        "percentage": "24"
+      },
+      {
+        "name": "Conservative Growth",
+        "percentshare": "45",
+        "currentNAV": "2.5",
+        "Units": "2334",
+        "Profit": "2500",
+        "variation": "rise/decline",
+        "percentage": "24"
+      },
+      {
+        "name": "Income",
+        "percentshare": "66",
+        "currentNAV": "2.5",
+        "Units": "2334",
+        "Profit": "2500",
+        "variation": "rise/decline",
+        "percentage": "24"
+      },
+      {
+        "name": "Income",
+        "percentshare": "77",
+        "currentNAV": "2.5",
+        "Units": "2334",
+        "Profit": "2500",
+        "variation": "rise/decline",
+        "percentage": "24"
+      },
+      {
+        "name": "Income",
+        "percentshare": "88",
+        "currentNAV": "2.5",
+        "Units": "2334",
+        "Profit": "2500",
+        "variation": "rise/decline",
+        "percentage": "24"
+      },
+      {
+        "name": "Income",
+        "percentshare": "99",
+        "currentNAV": "2.5",
+        "Units": "2334",
+        "Profit": "2500",
+        "variation": "rise/decline",
+        "percentage": "24"
+      },
+      {
+        "name": "Income",
+        "percentshare": "66",
+        "currentNAV": "2.5",
+        "Units": "2334",
+        "Profit": "2500",
+        "variation": "rise/decline",
+        "percentage": "24"
+      }
+    ],
+    "topPools": [
+      {
+        "name": "Income",
+        "nav": "$100000",
+        "variation": "rise/decline",
+        "percentage": "24"
+      },
+      {
+        "name": "Equity",
+        "nav": "$100000",
+        "variation": "rise/decline",
+        "percentage": "24"
+      },
+      {
+        "name": "Growth",
+        "nav": "$100000",
+        "variation": "rise/decline",
+        "percentage": "24"
+      }
+    ]
+  }
+}
