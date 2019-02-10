@@ -10,6 +10,8 @@ const accountSummary = require('./router/accountSummary/accountSummary');
 const investmentDashboard = require('./router/investmentDashboard/investmentDashboard');
 const investmentOption = require('./router/investmentOptionUST/investmentOption/investmentOption');
 const myInvestment = require('./router/investmentOptionUST/myInvestment/myInvestment');
+const investmentOptionDrupal = require('./router/investmentOptionDrupal/investmentOption/investmentOption');
+const underlyingFundsDrupal = require('./router/investmentOptionDrupal/underlyingFunds/underlyingFunds');
 
 
 app.use(morgan('combined'))
@@ -20,8 +22,10 @@ app.use(express.json());
 app.use('/grant', makeAnImpact)
 app.use('/', accountSummary)
 app.use('/', investmentDashboard)
-//app.use('/', investmentOption)
+app.use('/', investmentOption)
 app.use('/', myInvestment)
+app.use('/', investmentOptionDrupal);
+app.use('/', underlyingFundsDrupal);
 
  
 
