@@ -11,7 +11,11 @@
     "field_total": "No",
     "field_funds_title": "Vanguard Total Stock Market Index Fund",
     "field_funds_url": "https://institutional.vanguard.com/VGApp/iip/site/institutional/investments/pro…",
+<<<<<<< HEAD
     "field_funds_percentage": "14.00%"
+=======
+    "field_funds_percentage": "14.00"
+>>>>>>> a7e048446a6cfe4e96a6b70e9802dbffd8364b4e
   },
   {
     "title": "Income",
@@ -25,7 +29,11 @@
     "field_total": "No",
     "field_funds_title": "Vanguard Total International Stock Index Fund",
     "field_funds_url": "https://institutional.vanguard.com/VGApp/iip/site/institutional/investments/pro…",
+<<<<<<< HEAD
     "field_funds_percentage": "6.00%"
+=======
+    "field_funds_percentage": "6.00"
+>>>>>>> a7e048446a6cfe4e96a6b70e9802dbffd8364b4e
   },
   {
     "title": "Income",
@@ -39,7 +47,11 @@
     "field_total": "No",
     "field_funds_title": "Vanguard Total Bond Market Index Fund",
     "field_funds_url": "https://institutional.vanguard.com/VGApp/iip/site/institutional/investments/pro…",
+<<<<<<< HEAD
     "field_funds_percentage": "80.00%"
+=======
+    "field_funds_percentage": "80.00"
+>>>>>>> a7e048446a6cfe4e96a6b70e9802dbffd8364b4e
   },
   {
     "title": "Income",
@@ -58,6 +70,7 @@
   {
     "title": "Income",
     "nid": "18",
+<<<<<<< HEAD
     "field_expense_ratio_select": "0.04",
     "field_expense_ratio_standard": "0.03",
     "field_returns_1_yr": "2.00",
@@ -68,6 +81,18 @@
     "field_funds_title": "Benchmark Return",
     "field_funds_url": "",
     "field_funds_percentage": "5.00%"
+=======
+    "field_expense_ratio_select": "5.00",
+    "field_expense_ratio_standard": "4.00",
+    "field_returns_1_yr": "5.00",
+    "field_returns_10_yrs": "3.00",
+    "field_returns_5_yrs": "7.00",
+    "field_returns_ytd": "6.00",
+    "field_total": "No",
+    "field_funds_title": "Benchmark Return",
+    "field_funds_url": "",
+    "field_funds_percentage": "4.00"
+>>>>>>> a7e048446a6cfe4e96a6b70e9802dbffd8364b4e
   },
   {
     "title": "Money Market",
@@ -81,7 +106,11 @@
     "field_total": "No",
     "field_funds_title": "Vanguard Federal Money Market Fund",
     "field_funds_url": "https://institutional.vanguard.com/VGApp/iip/site/institutional/investments/pro…",
+<<<<<<< HEAD
     "field_funds_percentage": "40.00%"
+=======
+    "field_funds_percentage": "40.00"
+>>>>>>> a7e048446a6cfe4e96a6b70e9802dbffd8364b4e
   },
   {
     "title": "Money Market",
@@ -109,11 +138,16 @@
     "field_total": "No",
     "field_funds_title": "Vanguard ESG U.S. Stock ETF",
     "field_funds_url": "https://institutional.vanguard.com/VGApp/iip/site/institutional/investments/pro…",
+<<<<<<< HEAD
     "field_funds_percentage": "60.00%"
+=======
+    "field_funds_percentage": "60.00"
+>>>>>>> a7e048446a6cfe4e96a6b70e9802dbffd8364b4e
   },
   {
     "title": "Money Market",
     "nid": "17",
+<<<<<<< HEAD
     "field_expense_ratio_select": "7.00",
     "field_expense_ratio_standard": "9.00",
     "field_returns_1_yr": "6.65",
@@ -126,3 +160,17 @@
     "field_funds_percentage": "10.00%"
   }
 ]
+=======
+    "field_expense_ratio_select": "8.00",
+    "field_expense_ratio_standard": "3.00",
+    "field_returns_1_yr": "5.00",
+    "field_returns_10_yrs": "4.00",
+    "field_returns_5_yrs": "3.00",
+    "field_returns_ytd": "4.00",
+    "field_total": "No",
+    "field_funds_title": "Benchmark Return",
+    "field_funds_url": "",
+    "field_funds_percentage": "7.00"
+  }
+]
+>>>>>>> a7e048446a6cfe4e96a6b70e9802dbffd8364b4e
