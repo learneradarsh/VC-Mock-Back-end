@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Income",
+    "nid": "18",
+    "field_target_allocation_label_1": "Stock",
+    "field_target_allocation_label_2": "Cash",
+    "field_target_allocation_value_1": "60.00",
+    "field_target_allocation_value_2": "40.00",
+    "field_goal": "Seeks to provide current income and some capital appreciation through a target allocation of 20% stocks and 80% bonds.",
+    "field_benchmark": "",
+    "field_description": "The Income portfolio solution is designed for those seeking to maximize their charitable giving in the next 0-5 years,\n  while maintaining or growing their account assets. This lower risk,\n  multi-fund investment option is intended to preserve a majority of principal while investing a small portion of assets into equities (stocks).",
+    "field_management": "Active",
+    "field_investment_subcategory": "",
+    "field_investment_type": "Portfolio Solutions",
+    "field_risk_granting": "3"
+  },
+  {
+    "title": "Money Market",
+    "nid": "17",
+    "field_target_allocation_label_1": "Stock",
+    "field_target_allocation_label_2": "Cash",
+    "field_target_allocation_value_1": "80.00",
+    "field_target_allocation_value_2": "20.00",
+    "field_goal": "Seeks to provide income while maintaining liquidity and a stable share price. Invests primarily in U.S. government agency obligations.",
+    "field_benchmark": "U.S. Government\nMoney Market Funds\nAverage\n",
+    "field_description": "The Money Market option may be utilized to maintain an account balance in preparation for immediate giving needs. While donors may grant from Money Market,\n    it is not necessary to make grants solely from this investment option.",
+    "field_management": "Active",
+    "field_investment_subcategory": "",
+    "field_investment_type": "Portfolio Builders",
+    "field_risk_granting": "2"
+  }
+]

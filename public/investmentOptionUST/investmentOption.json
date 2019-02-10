@@ -1,0 +1,378 @@
+{
+  "accountId": "A1230128",
+  "portfolioSolutions": [
+    {
+      "uniqueId": 1,
+      "investmentOption": "Money Market",
+      "currentNav": 0.48,
+      "underlyingFunds": [
+        {
+          "name": "Vanguard Federal Money Market Fund",
+          "currentNav": 10
+        },
+        {
+          "name": "Benchmark Return",
+          "currentNav": 10
+        }
+      ],
+      "unitHistoricalNAV": [
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        }
+      ]
+    },
+    {
+      "uniqueId": 2,
+      "investmentOption": "Income",
+      "currentNav": 0.48,
+      "underlyingFunds": [
+        {
+          "name": "Vanguard Federal Money Market Fund",
+          "currentNav": 10
+        },
+        {
+          "name": "Benchmark Return",
+          "currentNav": 10
+        }
+      ],
+      "unitHistoricalNAV": [
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        }
+      ]
+    },
+    {
+      "uniqueId": 3,
+      "investmentOption": "Gift Preservation",
+      "currentNav": 0.48,
+      "underlyingFunds": [
+        {
+          "name": "Vanguard Federal Money Market Fund",
+          "currentNav": 10
+        },
+        {
+          "name": "Benchmark Return",
+          "currentNav": 10
+        }
+      ],
+      "unitHistoricalNAV": [
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        }
+      ]
+    }
+  ],
+  "portfolioBuilders": [
+    {
+      "uniqueId": 1,
+      "investmentOption": "Money Market",
+      "currentNav": 0.48,
+      "underlyingFunds": [
+        {
+          "name": "Vanguard Federal Money Market Fund",
+          "currentNav": 10
+        },
+        {
+          "name": "Benchmark Return",
+          "currentNav": 10
+        }
+      ],
+      "unitHistoricalNAV": [
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        }
+      ]
+    },
+    {
+      "uniqueId": 2,
+      "investmentOption": "Income",
+      "currentNav": 0.48,
+      "underlyingFunds": [
+        {
+          "name": "Vanguard Federal Money Market Fund",
+          "currentNav": 10
+        },
+        {
+          "name": "Benchmark Return",
+          "currentNav": 10
+        }
+      ],
+      "unitHistoricalNAV": [
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        }
+      ]
+    },
+    {
+      "uniqueId": 3,
+      "investmentOption": "Gift Preservation",
+      "currentNav": 0.48,
+      "underlyingFunds": [
+        {
+          "name": "Vanguard Federal Money Market Fund",
+          "currentNav": 10
+        },
+        {
+          "name": "Benchmark Return",
+          "currentNav": 10
+        }
+      ],
+      "unitHistoricalNAV": [
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        }
+      ]
+    }
+  ],
+  "valueDriven": [
+    {
+      "uniqueId": 1,
+      "investmentOption": "Money Market",
+      "currentNav": 0.48,
+      "underlyingFunds": [
+        {
+          "name": "Vanguard Federal Money Market Fund",
+          "currentNav": 10
+        },
+        {
+          "name": "Benchmark Return",
+          "currentNav": 10
+        }
+      ],
+      "unitHistoricalNAV": [
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        }
+      ]
+    },
+    {
+      "uniqueId": 2,
+      "investmentOption": "Income",
+      "currentNav": 0.48,
+      "underlyingFunds": [
+        {
+          "name": "Vanguard Federal Money Market Fund",
+          "currentNav": 10
+        },
+        {
+          "name": "Benchmark Return",
+          "currentNav": 10
+        }
+      ],
+      "unitHistoricalNAV": [
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        }
+      ]
+    },
+    {
+      "uniqueId": 3,
+      "investmentOption": "Gift Preservation",
+      "currentNav": 0.48,
+      "underlyingFunds": [
+        {
+          "name": "Vanguard Federal Money Market Fund",
+          "currentNav": 10
+        },
+        {
+          "name": "Benchmark Return",
+          "currentNav": 10
+        }
+      ],
+      "unitHistoricalNAV": [
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        }
+      ]
+    }
+  ]
+}

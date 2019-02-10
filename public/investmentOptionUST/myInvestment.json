@@ -1,0 +1,99 @@
+{
+  "accountId": "A1230128",
+  "myInvestments": [
+    {
+      "uniqueId": 1,
+      "investmentOption": "Money Market",
+      "currentUnitPrice": 43.48,
+      "availableUnits": 1202.12,
+      "availableBalance": 1236511.12,
+      "underlyingFunds": [
+        {
+          "name": "Vanguard Federal Money Market Fund",
+          "currentUnitPrice": 43.48,
+          "availableUnits": 1202.12,
+          "availableBalance": 1236511.12
+        },
+        {
+          "name": "Benchmark Return",
+          "currentUnitPrice": 43.48,
+          "availableUnits": 1202.12,
+          "availableBalance": 1236511.12
+        }
+      ],
+      "unitHistoricalNAV": [
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        }
+      ]
+    },
+    {
+      "uniqueId": 2,
+      "investmentOption": "Conservative Growth",
+      "currentUnitPrice": 43.48,
+      "availableUnits": 1202.12,
+      "availableBalance": 1236511.12,
+      "underlyingFunds": [
+        {
+          "name": "Vanguard Federal Money Market Fund",
+          "currentUnitPrice": 43.48,
+          "availableUnits": 1202.12,
+          "availableBalance": 1236511.12
+        },
+        {
+          "name": "Benchmark Return",
+          "currentUnitPrice": 43.48,
+          "availableUnits": 1202.12,
+          "availableBalance": 1236511.12
+        }
+      ],
+      "unitHistoricalNAV": [
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        },
+        {
+          "date": "09/21/2010",
+          "unitPrice": 2.30
+        }
+      ]
+    }
+  ]
+}
